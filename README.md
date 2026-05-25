@@ -1,7 +1,3 @@
-<div align="center">
-  <img width="1200" height="475" alt="AI CoE Register Banner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
-
 # AI Center of Excellence Registration Portal
 
 Website registrasi profesional untuk pengunjung AI Center of Excellence yang dirancang untuk mempermudah proses pendaftaran dengan tampilan yang sederhana dan mudah digunakan. Sistem terintegrasi dengan Google Sheets untuk mengelola dan menyimpan data pengunjung secara real-time.
